@@ -1,0 +1,5 @@
+Credentials cache: API:30865
+        Principal: awaraich@42.US.ORG
+
+  Issued                Expires               Principal
+Jul  9 15:08:39 2018  Jul 10 01:08:39 2018  krbtgt/42.US.ORG@42.US.ORG
